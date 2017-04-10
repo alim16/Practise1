@@ -1,4 +1,4 @@
-package com.collections;
+package com.practise.collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;

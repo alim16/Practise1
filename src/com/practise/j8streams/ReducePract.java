@@ -1,4 +1,4 @@
-package com.j8streams;
+package com.practise.j8streams;
 
 import static java.util.Arrays.stream; //reduce using this 
 

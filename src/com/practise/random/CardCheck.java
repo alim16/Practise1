@@ -1,4 +1,4 @@
-package com.practise;
+package com.practise.random;
 
 
 public class CardCheck {
